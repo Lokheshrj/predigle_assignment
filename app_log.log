@@ -1,0 +1,101 @@
+2024-07-01 11:10:47,624 - course.views - INFO - Successfully Logged in
+2024-07-01 11:11:11,738 - course.views - ERROR - Invalid email or password
+2024-07-01 11:11:18,886 - course.views - INFO - Successfully Logged in
+2024-07-01 11:20:45,282 - course.views - INFO - Successfully Logged in
+2024-07-01 11:22:18,726 - course.views - INFO - Category created successfully
+2024-07-01 11:22:58,583 - course.views - INFO - Category created successfully
+2024-07-01 12:24:30,284 - course.views - INFO - User registered successfully
+2024-07-01 12:26:46,766 - course.views - INFO - User login successful
+2024-07-01 12:27:07,728 - course.views - INFO - Courses listed successfully
+2024-07-01 12:38:45,373 - course.views - INFO - User login successful
+2024-07-01 12:38:55,872 - course.views - INFO - Categories listed successfully
+2024-07-01 12:39:42,255 - course.views - INFO - Categories listed successfully
+2024-07-01 12:42:33,393 - course.views - INFO - Categories listed successfully
+2024-07-01 12:43:29,895 - course.views - INFO - Categories listed successfully
+2024-07-01 12:44:09,255 - course.views - INFO - Categories listed successfully
+2024-07-01 12:46:05,293 - course.views - INFO - Categories listed successfully
+2024-07-01 16:35:15,538 - course.views - INFO - Categories listed successfully
+2024-07-01 16:48:56,594 - course.views - INFO - Categories listed successfully
+2024-07-01 16:57:43,919 - course.views - INFO - Successfully Logged in
+2024-07-01 16:59:27,045 - course.views - INFO - Successfully Logged in
+2024-07-01 16:59:50,369 - course.views - INFO - Categories retrieved successfully
+2024-07-01 17:05:33,987 - course.views - INFO - Received category_id: 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1
+2024-07-01 17:05:33,990 - course.views - INFO - Found category: Programming
+2024-07-01 17:05:33,996 - course.views - INFO - Courses listed successfully for category Programming
+2024-07-01 17:05:43,453 - course.views - INFO - Categories listed successfully
+2024-07-01 17:06:06,689 - course.views - INFO - Received category_id: bc99dd4e-b3b9-4299-b26e-d98debd4bd0d
+2024-07-01 17:06:06,692 - course.views - INFO - Found category: Art
+2024-07-01 17:06:06,696 - course.views - INFO - Courses listed successfully for category Art
+2024-07-01 19:06:38,212 - course.views - INFO - User login successful
+2024-07-01 19:06:56,434 - course.views - INFO - Categories listed successfully
+2024-07-01 19:24:27,463 - course.views - INFO - Categories listed successfully
+2024-07-01 19:27:20,564 - course.views - INFO - Received category_id: 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1
+2024-07-01 19:27:20,569 - course.views - INFO - Found category: Programming
+2024-07-01 19:27:20,582 - course.views - INFO - Courses listed successfully for category Programming
+2024-07-01 19:28:09,672 - course.views - INFO - User srivel@example.com enrolled in course daace984-7791-46c5-ad9b-d01f47fbb9ae
+2024-07-01 19:35:19,233 - course.views - INFO - User srivel@example.com listed enrolled courses
+2024-07-01 19:59:39,968 - course.views - ERROR - Invalid email or password
+2024-07-01 20:02:10,025 - course.views - ERROR - Admin signup failed: {'email': [ErrorDetail(string='This field is required.', code='required')], 'name': [ErrorDetail(string='This field is required.', code='required')], 'password': [ErrorDetail(string='This field is required.', code='required')]}
+2024-07-02 11:02:52,859 - course.views - INFO - Successfully Logged in
+2024-07-02 11:08:07,535 - course.views - INFO - Successfully Logged in
+2024-07-02 15:00:54,368 - course.views - INFO - Successfully logged in
+2024-07-02 15:01:10,284 - course.views - INFO - Categories retrieved successfully
+2024-07-02 15:14:09,581 - course.views - INFO - User login successful
+2024-07-02 15:14:27,380 - course.views - INFO - Categories listed successfully
+2024-07-02 17:29:42,171 - course.views - INFO - User login successful
+2024-07-02 17:30:10,553 - course.views - INFO - Categories listed successfully
+2024-07-02 17:30:39,153 - course.views - INFO - Categories listed successfully
+2024-07-02 17:34:52,830 - course.views - INFO - Categories listed successfully
+2024-07-02 23:51:06,556 - course.views - INFO - Successfully logged in
+2024-07-02 23:52:02,837 - course.views - INFO - Category created successfully
+2024-07-02 23:52:28,152 - course.views - INFO - Categories retrieved successfully
+2024-07-02 23:54:01,163 - course.views - INFO - Categories retrieved successfully
+2024-07-03 00:05:21,551 - course.views - INFO - Successfully logged in
+2024-07-03 00:05:49,846 - course.views - INFO - Categories retrieved successfully
+2024-07-03 00:07:27,545 - course.views - INFO - Instructors listed successfully
+2024-07-03 00:08:28,933 - course.views - INFO - Instructor registered successfully
+2024-07-03 00:09:23,027 - course.views - INFO - Instructor login successful
+2024-07-03 00:12:03,504 - course.views - INFO - Instructor login successful
+2024-07-03 00:15:37,593 - course.views - INFO - Instructor login successful
+2024-07-03 00:19:04,534 - course.views - INFO - Categories listed successfully
+2024-07-03 00:22:57,382 - course.views - INFO - Instructor login successful
+2024-07-03 00:23:59,072 - course.views - INFO - Instructors listed successfully
+2024-07-03 00:28:29,325 - course.views - INFO - User login successful
+2024-07-03 00:28:40,214 - course.views - INFO - Categories listed successfully
+2024-07-03 00:31:04,727 - course.views - INFO - User login successful
+2024-07-03 00:31:13,958 - course.views - INFO - Categories listed successfully
+2024-07-03 00:31:28,334 - course.views - INFO - Received category_id: 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1
+2024-07-03 00:31:28,337 - course.views - INFO - Found category: Programming
+2024-07-03 00:31:28,342 - course.views - INFO - Courses listed successfully for category Programming
+2024-07-03 00:31:42,294 - course.views - INFO - User srivel@example.com listed enrolled courses
+2024-07-03 00:35:06,821 - course.views - INFO - User login successful
+2024-07-03 00:35:19,141 - course.views - INFO - Categories listed successfully
+2024-07-03 00:35:37,797 - course.views - INFO - Received category_id: 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1
+2024-07-03 00:35:37,799 - course.views - INFO - Found category: Programming
+2024-07-03 00:35:37,804 - course.views - INFO - Courses listed successfully for category Programming
+2024-07-03 00:36:05,296 - course.views - INFO - User srivel@example.com enrolled in course 361299b0-d0c0-447e-9f84-ff01ad2f6d35
+2024-07-03 00:36:13,555 - course.views - INFO - User srivel@example.com listed enrolled courses
+2024-07-03 00:38:40,787 - course.views - INFO - Successfully logged in
+2024-07-03 00:38:48,537 - course.views - INFO - Categories retrieved successfully
+2024-07-03 00:47:03,291 - course.views - INFO - Categories retrieved successfully
+2024-07-03 01:05:06,740 - course.views - INFO - Successfully logged in
+2024-07-03 01:05:19,244 - course.views - INFO - Categories retrieved successfully
+2024-07-03 01:05:36,860 - course.views - INFO - Category with pk 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1 and its courses retrieved successfully
+2024-07-03 01:08:06,274 - course.views - INFO - Successfully logged in
+2024-07-03 01:08:12,669 - course.views - INFO - Categories retrieved successfully
+2024-07-03 01:08:46,851 - course.views - INFO - Category with pk 93511b9d-96d6-48a2-acff-21e7ef8bee9c deleted successfully
+2024-07-03 01:08:58,383 - course.views - INFO - Categories retrieved successfully
+2024-07-03 01:10:21,149 - course.views - INFO - Category with pk 0e282df4-13f4-4d50-93e5-c4c5140b06ef updated successfully
+2024-07-04 12:30:15,776 - course.views - INFO - Admin registered successfully
+2024-07-04 12:30:33,259 - course.views - INFO - Successfully logged in
+2024-07-04 12:54:35,050 - course.views - INFO - Categories retrieved successfully
+2024-07-04 12:55:11,295 - course.views - INFO - Category with pk 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1 and its courses retrieved successfully
+2024-07-04 12:55:56,898 - course.views - INFO - User registered successfully
+2024-07-04 12:56:12,257 - course.views - INFO - User login successful
+2024-07-04 12:56:21,025 - course.views - INFO - Categories listed successfully
+2024-07-04 12:57:12,155 - course.views - INFO - Received category_id: 5ce35a94-bbfd-43b0-be1a-f23eaa2153c1
+2024-07-04 12:57:12,158 - course.views - INFO - Found category: Programming
+2024-07-04 12:57:12,166 - course.views - INFO - Courses listed successfully for category Programming
+2024-07-04 12:57:40,568 - course.views - INFO - User thiyan@gmail.com enrolled in course 0e740a19-29b0-4014-956b-9ec0afddc9bb
+2024-07-04 12:59:27,247 - course.views - INFO - User thiyan@gmail.com enrolled in course 361299b0-d0c0-447e-9f84-ff01ad2f6d35
+2024-07-04 12:59:33,705 - course.views - INFO - User thiyan@gmail.com listed enrolled courses
